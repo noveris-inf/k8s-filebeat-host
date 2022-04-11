@@ -1,1 +1,1 @@
-# k8s-filebeat-host
+# kustomize-filebeat-host
